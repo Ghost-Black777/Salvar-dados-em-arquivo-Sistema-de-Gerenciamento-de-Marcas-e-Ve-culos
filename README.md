@@ -1,0 +1,2 @@
+# Salvar-dados-em-arquivo-Sistema-de-Gerenciamento-de-Marcas-e-Ve-culos
+Este projeto implementa um sistema em Java, utilizando Programação Orientada a Objetos (POO), para gerenciar Marcas e seus respectivos Veículos (relação 1:N).  🎯 Especificações  O sistema representa dois objetos relacionados:  Marca (objeto principal → 1)  Veículo (objeto associado → N)  Cada Marca pode possuir vários Veículos.
